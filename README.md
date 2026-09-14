@@ -8,13 +8,13 @@ I work mainly in the **TypeScript** ecosystem: **Angular** and **Vue** on the fr
 `Angular` · `Vue` · `TypeScript` · `Tailwind CSS`
 
 **Backend**
-`NestJS` · `TypeORM` · `Node.js`
+`NestJS` · `TypeORM` · `Node.js` · `Python`
 
 **Data**
 `MariaDB` · `MySQL` · `SQL`
 
 **Tooling & Infrastructure**
-`Docker` · `NX (monorepo)` · locally-hosted LLM models
+`Docker` · `NX (monorepo)` · `locally-hosted LLM models`
 
 ## Current project — HR Sessions for Bangle.js 2
 
