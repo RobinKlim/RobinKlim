@@ -14,7 +14,8 @@ I work mainly in the **TypeScript** ecosystem: **Angular** and **Vue** on the fr
 `MariaDB` · `MySQL` · `SQL`
 
 **Tooling & Infrastructure**
-`Docker` · `NX (monorepo)` · `locally-hosted LLM models`
+`Docker` · `NX (monorepo)` · `locally-hosted LLM models` · `BMAD Method`
+
 
 ## Current project — HR Sessions for Bangle.js 2
 
